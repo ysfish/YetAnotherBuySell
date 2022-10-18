@@ -15,3 +15,4 @@ FTM_API_KEY = ""
 AVAX_API_KEY = ""
 
 TELEGRAM_API_KEY = ""
+CHAT_ID = ""
